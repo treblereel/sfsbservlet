@@ -1,0 +1,2 @@
+# sfsbservlet
+Stateful bean example
